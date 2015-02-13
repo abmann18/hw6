@@ -1,0 +1,97 @@
+body{
+	width: 1000px;
+}
+.row1{
+	height: 200px;
+}
+.square1{
+	background-color: #eee;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square2{
+	background-color: #b3b3b3;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square3{
+	background-color: #959595;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square4{
+	background-color: #777;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square5{
+	background-color: #595959;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square6{
+	background-color: #ff0;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square7{
+	background-color: #dfdf00;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square8{
+	background-color: #bfbf00;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square9{
+	background-color: #9f9f00;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square10{
+	background-color: #808000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square11{
+	background-color: #ff0000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square12{
+	background-color: #df0000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square13{
+	background-color: #bf0000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square14{
+	background-color: #9f0000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.square15{
+	background-color: #800000;
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
